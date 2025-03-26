@@ -23,8 +23,8 @@ Follow these steps to get started:
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/username/numpy-basics-ml.git
-cd numpy-basics-ml
+git clone https://github.com/raviprasad794063/Numpy.git
+cd Numpy
 ```
 
 2. **Set Up Environment**
@@ -36,7 +36,7 @@ pip install numpy
 3. **Run the Notebook**
 If you have Jupyter installed, run:
 ```bash
-jupyter notebook numpy_basics.ipynb
+jupyter notebook Numpy.ipynb
 ```
 
 4. **Access Documentation**
