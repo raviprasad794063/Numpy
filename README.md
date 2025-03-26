@@ -15,7 +15,7 @@ NumPy (Numerical Python) is a powerful Python library that provides support for 
 .
 ├── README.md
 ├── numpy.ipynb        # Jupyter Notebook with detailed explanations and code examples
-└── numpy_user_guide                      # Offline NumPy documentation (HTML/PDF)
+└── numpy_user_guide   # Offline NumPy documentation (HTML/PDF)
 ```
 
 ## 🚀 **Getting Started**
