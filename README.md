@@ -54,8 +54,6 @@ You can find the NumPy documentation in the `docs` folder, or visit the official
 ## 🤝 **Contributing**
 Contributions are welcome! Feel free to submit a pull request or report issues.
 
-## 📜 **License**
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## ⭐ **Support**
 If you find this repository useful, please give it a star ⭐ and share it with your peers!
